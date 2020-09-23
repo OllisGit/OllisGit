@@ -1,6 +1,11 @@
 
 ## OctoPrint-Repositories
+
+<table><tr><td valign="top" width="33%">
+
 ### [KnowledgeBase](https://github.com/OllisGit/OctoPrint-KnowledgeBase)
+
+</td><td valign="top" width="34%">
 ---
 ### [DisplayLayerProgress](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress)
 ---
@@ -14,8 +19,11 @@
 ### [FilamentManager](https://github.com/OllisGit/OctoPrint-FilamentManager)
 ---
 
+
 ### [CostEstimation](https://github.com/OllisGit/OctoPrint-CostEstimation)
 ---
+
+</td><td valign="top" width="33%">
 
 ### [DeleteAfterPrint](https://github.com/OllisGit/OctoPrint-DeleteAfterPrint)
 ---
@@ -31,6 +39,7 @@
 
 ### [TemperatureLegendMover](https://github.com/OllisGit/OctoPrint-TemperatureLegendMover)
 ---
+</td></tr></table>
 
 
 <!--
