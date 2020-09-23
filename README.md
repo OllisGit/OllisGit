@@ -1,7 +1,7 @@
 
 ## OctoPrint-Repositories
 
-<table style="width:100%"><tr><td valign="top" width="33%">
+<table border="1" style="width:100%;"><tr><td valign="top" width="33%">
 
 ### [KnowledgeBase](https://github.com/OllisGit/OctoPrint-KnowledgeBase)
 ---
