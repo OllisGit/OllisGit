@@ -4,9 +4,10 @@
 <table><tr><td valign="top" width="33%">
 
 ### [KnowledgeBase](https://github.com/OllisGit/OctoPrint-KnowledgeBase)
+---
 
 </td><td valign="top" width="34%">
----
+
 ### [DisplayLayerProgress](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress)
 ---
 
