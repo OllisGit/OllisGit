@@ -49,6 +49,9 @@ The OctoPrint-Plugin manages all spool informations and stores it in a database.
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-FilamentManager/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-FilamentManager/latest/total.svg)
 
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-FilamentManager.svg)](https://github.com/OllisGit/OctoPrint-FilamentManager/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-FilamentManager.svg)](https://github.com/OllisGit/OctoPrint-FilamentManager/issues)
+
 This OctoPrint plugin makes it easy to manage your inventory of filament spools. You can add all your spools and assign them to print jobs. The Filament Manager will automatically track the amount of extruded filament so you can always see how much is left on your spools.
 
 ---
