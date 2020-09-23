@@ -2,14 +2,19 @@
 
 ### [KnowledgeBase](https://github.com/OllisGit/OctoPrint-KnowledgeBase)
 
-<table border="1" style="width:100%;"><tr><td valign="top" width="33%">
-
 ---
+
+<table border="1" style="width:100%;"><tr><td valign="top" width="50%">
 
 ### [DisplayLayerProgress](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress)
 [![Version](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=version&url=https://api.github.com/repos/OllisGit/OctoPrint-DisplayLayerProgress/releases&query=$[0].name)]()
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-DisplayLayerProgress/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-DisplayLayerProgress/latest/total.svg)
+
+
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-DisplayLayerProgress.svg)](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/issues)[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-DisplayLayerProgress.svg)](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/issues)
+
+
 
 A OctoPrint-Plugin that sends the current progress of a print via M117 command to the printer-display and also to the top navigation bar.
 
