@@ -1,10 +1,10 @@
 # OctoPrint Repositories
-<table border="1" style="width:100%;"><tr><td valign="top" width="33%">
 
 ### [KnowledgeBase](https://github.com/OllisGit/OctoPrint-KnowledgeBase)
----
 
-</td><td valign="top" width="34%">
+<table border="1" style="width:100%;"><tr><td valign="top" width="33%">
+
+---
 
 ### [DisplayLayerProgress](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress)
 [![Version](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=version&url=https://api.github.com/repos/OllisGit/OctoPrint-DisplayLayerProgress/releases&query=$[0].name)]()
@@ -51,8 +51,7 @@ This OctoPrint plugin makes it easy to manage your inventory of filament spools.
 This OctoPrint plugin displays the estimated print cost for the loaded model. The print cost includes the price for the used filament the maintenance and operating cost for the printer as well as the depreciation of the printer.
 
 ---
-
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### [DeleteAfterPrint](https://github.com/OllisGit/OctoPrint-DeleteAfterPrint)
 [![Version](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=version&url=https://api.github.com/repos/OllisGit/OctoPrint-DeleteAfterPrint/releases&query=$[0].name)]()
