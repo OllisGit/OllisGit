@@ -11,9 +11,8 @@
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-DisplayLayerProgress/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-DisplayLayerProgress/latest/total.svg)
 
-
-[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-DisplayLayerProgress.svg)](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/issues)[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-DisplayLayerProgress.svg)](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/issues)
-
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-DisplayLayerProgress.svg)](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-DisplayLayerProgress.svg)](https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/issues)
 
 
 A OctoPrint-Plugin that sends the current progress of a print via M117 command to the printer-display and also to the top navigation bar.
@@ -25,6 +24,9 @@ A OctoPrint-Plugin that sends the current progress of a print via M117 command t
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-PrintJobHistory/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-PrintJobHistory/latest/total.svg)
 
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-PrintJobHistory.svg)](https://github.com/OllisGit/OctoPrint-PrintJobHistory/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-PrintJobHistory.svg)](https://github.com/OllisGit/OctoPrint-PrintJobHistory/issues)
+
 The OctoPrint-Plugin stores all print-job informations of a print in a local database.
 These informations were collected from OctoPrint itself, but also from other plugins.
 
@@ -34,6 +36,9 @@ These informations were collected from OctoPrint itself, but also from other plu
 [![Version](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=version&url=https://api.github.com/repos/OllisGit/OctoPrint-SpoolManager/releases&query=$[0].name)]()
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-SpoolManager/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-SpoolManager/latest/total.svg)
+
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-SpoolManager.svg)](https://github.com/OllisGit/OctoPrint-SpoolManager/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-SpoolManager.svg)](https://github.com/OllisGit/OctoPrint-SpoolManager/issues)
 
 The OctoPrint-Plugin manages all spool informations and stores it in a database.
 
@@ -53,6 +58,10 @@ This OctoPrint plugin makes it easy to manage your inventory of filament spools.
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-CostEstimation/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-CostEstimation/latest/total.svg)
 
+
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-CostEstimation.svg)](https://github.com/OllisGit/OctoPrint-CostEstimation/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-CostEstimation.svg)](https://github.com/OllisGit/OctoPrint-CostEstimation/issues)
+
 This OctoPrint plugin displays the estimated print cost for the loaded model. The print cost includes the price for the used filament the maintenance and operating cost for the printer as well as the depreciation of the printer.
 
 ---
@@ -62,6 +71,9 @@ This OctoPrint plugin displays the estimated print cost for the loaded model. Th
 [![Version](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=version&url=https://api.github.com/repos/OllisGit/OctoPrint-DeleteAfterPrint/releases&query=$[0].name)]()
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-DeleteAfterPrint/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-DeleteAfterPrint/latest/total.svg)
+
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-DeleteAfterPrint.svg)](https://github.com/OllisGit/OctoPrint-DeleteAfterPrint/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-DeleteAfterPrint.svg)](https://github.com/OllisGit/OctoPrint-DeleteAfterPrint/issues)
 
 Delete or **move** (*since V1.5.0+*) automatically the Print-Model:
 * after successful print or if you want, also on canceled and failed prints
@@ -74,6 +86,9 @@ Delete or **move** (*since V1.5.0+*) automatically the Print-Model:
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-DryRun/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-DryRun/latest/total.svg)
 
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-DryRun.svg)](https://github.com/OllisGit/OctoPrint-DryRun/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-DryRun.svg)](https://github.com/OllisGit/OctoPrint-DryRun/issues)
+
 A Octoprint-Plugin that allows to execute a print without heating your bed or nozzle, turning on any fans, or extruding any filament.
 
 ---
@@ -83,6 +98,9 @@ A Octoprint-Plugin that allows to execute a print without heating your bed or no
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-AutostartPrint/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-AutostartPrint/latest/total.svg)
 
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-AutostartPrint.svg)](https://github.com/OllisGit/OctoPrint-AutostartPrint/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-AutostartPrint.svg)](https://github.com/OllisGit/OctoPrint-AutostartPrint/issues)
+
 Plugin starts a print job after the Printer is connected (e.g. after powering up). It selects the newest uploaded file for print.
 
 ---
@@ -91,6 +109,9 @@ Plugin starts a print job after the Printer is connected (e.g. after powering up
 [![Version](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=version&url=https://api.github.com/repos/OllisGit/OctoPrint-AutoLogout/releases&query=$[0].name)]()
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-AutoLogout/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-AutoLogout/latest/total.svg)
+
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-AutoLogout.svg)](https://github.com/OllisGit/OctoPrint-AutoLogout/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-AutoLogout.svg)](https://github.com/OllisGit/OctoPrint-AutoLogout/issues)
 
 Plugin starts a countdown timer after login and if the timer is count to zero, the user is automatically logged out.
 The timer is restarted each time a user clicks on "something" like a tab-change.
@@ -102,23 +123,10 @@ The timer is restarted each time a user clicks on "something" like a tab-change.
 [![Released](https://img.shields.io/badge/dynamic/json.svg?color=brightgreen&label=released&url=https://api.github.com/repos/OllisGit/OctoPrint-TemperatureLegendMover/releases&query=$[0].published_at)]()
 ![GitHub Releases (by Release)](https://img.shields.io/github/downloads/OllisGit/OctoPrint-TemperatureLegendMover/latest/total.svg)
 
+[![GitHub issues open](https://img.shields.io/github/issues/OllisGit/OctoPrint-TemperatureLegendMover.svg)](https://github.com/OllisGit/OctoPrint-TemperatureLegendMover/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/OllisGit/OctoPrint-TemperatureLegendMover.svg)](https://github.com/OllisGit/OctoPrint-TemperatureLegendMover/issues)
+
 A OctoPrint-Plugin that moves the Temperature-Legend into a specific corner
 
 ---
 </td></tr></table>
-
-
-<!--
-**OllisGit/OllisGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
