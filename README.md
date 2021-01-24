@@ -1,6 +1,6 @@
 # OctoPrint Repositories
 
-### [KnowledgeBase](https://github.com/OllisGit/OctoPrint-KnowledgeBase)
+### [KnowledgeBase-Wiki](https://github.com/OllisGit/OctoPrint-KnowledgeBase/wiki)
 
 ---
 
