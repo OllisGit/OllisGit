@@ -3,6 +3,7 @@
 ### [KnowledgeBase-Wiki](https://github.com/OllisGit/OctoPrint-KnowledgeBase/wiki)
 
 ---
+Plugin-Dashboard with some statistics: https://ollisgit.github.io/plugins-dashboard/
 
 <table border="1" style="width:100%;"><tr><td valign="top" width="50%">
 
